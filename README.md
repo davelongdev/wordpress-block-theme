@@ -2,7 +2,7 @@
 
 ## About
 
-I created this theme to use for developing wordpress sites.
+I created this theme to use for developing WordPress sites.
 
 I wanted a simple and free theme to use as a jumping off point for new WordPress projects.
 
